@@ -1,0 +1,14 @@
+body {
+    background-image: url("steampunk.png");
+    font-family: "Times New Roman", Times, serif;
+}
+
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+#navcontainer ul li { display: inline; }
+#navcontainer ul li a { text-decoration: none; }
